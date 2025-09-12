@@ -46,3 +46,5 @@ They explain in detail:
 
 ### 📌 Learn More
 Visit the **[challenge page](https://codebasics.io/challenges/codebasics-gen-ai-data-science-resume-project-challenge/22)** to learn more: **DS RPC-2.0**
+
+My ADEGuard project started by AiswaryaG on Sep 11, 2025.
